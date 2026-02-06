@@ -1,0 +1,30 @@
+# --- Personal Photos & Videos (Privacy) ---
+photos/
+output/
+
+
+# --- Temporary Media Files ---
+*.mp3
+*.mp4
+*.wav
+*.m4a
+temp-audio*
+
+# --- Python Environment & Cache ---
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+.env
+
+# --- VS Code Settings ---
+.vscode/
+
+
+# --- AI Models (Huge size) ---
+models/
+.cache/
+
+ffmpeg.exe
+ffprobe.exe
