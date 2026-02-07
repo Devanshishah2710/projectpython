@@ -28,3 +28,4 @@ models/
 
 ffmpeg.exe
 ffprobe.exe
+.env

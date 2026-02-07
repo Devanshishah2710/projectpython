@@ -16,7 +16,7 @@ pip install transformers torch pillow moviepy yt-dlp imageio-ffmpeg
 pip install -r requirements.txt (run command in the terminal)
 
 #Run the Script:(run command in the terminal)
-1. python create_reels.py 
+1. python reels.py 
 
 #Author
 devanshishah
